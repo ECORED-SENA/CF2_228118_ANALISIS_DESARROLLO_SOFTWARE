@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="100" viewBox="0 0 133 100">
+  <g id="Grupo_1075287" data-name="Grupo 1075287" transform="translate(-1049 -15456.567)">
+    <path id="Op_component_1" data-name="Op component 1" d="M45.235,0A45.235,45.235,0,1,1,0,45.235,45.235,45.235,0,0,1,45.235,0Z" transform="translate(1070.5 15461.5)" fill="none" stroke="#273a89" stroke-width="1"/>
+    <g id="Grupo_1074410" data-name="Grupo 1074410" transform="translate(0 -73)">
+      <path id="Op_component_1-2" data-name="Op component 1" d="M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(1065 15529.567)" fill="#fff" opacity="0.4"/>
+      <g id="Elipse_1275" data-name="Elipse 1275" transform="translate(1049 15552)" fill="#fff" stroke="#4dd0e1" stroke-width="3">
+        <ellipse cx="66.5" cy="27" rx="66.5" ry="27" stroke="none"/>
+        <ellipse cx="66.5" cy="27" rx="65" ry="25.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
