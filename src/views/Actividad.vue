@@ -10,8 +10,8 @@
             img(src="@/assets/template/arrastrar_Soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 Técnicas de validación de requisitos
+        p.mb-4 Fortalecer los aspectos conceptuales y prácticos sobre validación de requisitos, con base en los temas estudiados en el componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

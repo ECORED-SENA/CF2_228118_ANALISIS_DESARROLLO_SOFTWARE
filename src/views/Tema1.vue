@@ -47,7 +47,7 @@
       h2 1.1 Revisiones de requerimientos
     .row.mb-4
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
-        p Las revisiones de los requerimientos es un proceso manual que involucra la participación de personas de parte de la organización constructora del software así como la de los clientes. Por lo general, en este proceso se revisa el documento de requerimientos tratando de encontrar alguna anomalía y/u omisiones en la escritura de estos.
+        p Las revisiones de los requerimientos es un proceso manual que involucra la participación de personas de parte de la organización constructora del #[i software] así como la de los clientes. Por lo general, en este proceso se revisa el documento de requerimientos tratando de encontrar alguna anomalía y/u omisiones en la escritura de estos.
         .row
           .col-12
             .p-4.bg-c2
@@ -56,7 +56,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img2.svg', style="width:80px" alt='').m-auto
                 .col
-                  p.mb-0 Esta revisión se puede realizar de manera informal o formal (Sommerville, 2011). En una revisión informal, se requiere verificar, con tantos stakeholders como sea posible, el documento generado para recibir confirmación por parte de ellos de que lo escrito sí refleja su deseo. Esta revisión informal permite, de manera muy sencilla, detectar muchos problemas antes de establecer cualquier formalismo de revisión.
+                  p.mb-0 Esta revisión se puede realizar de manera informal o formal (Sommerville, 2011). En una revisión informal, se requiere verificar, con tantos #[i stakeholders] como sea posible, el documento generado para recibir confirmación por parte de ellos de que lo escrito sí refleja su deseo. Esta revisión informal permite, de manera muy sencilla, detectar muchos problemas antes de establecer cualquier formalismo de revisión.
       .col-lg-5.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img1.png', style="width:480px" alt='').m-auto
