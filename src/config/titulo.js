@@ -1,1 +1,1 @@
-module.exports = 'La fase de elicitación de requisitos'
+module.exports = 'Validación de requisitos'

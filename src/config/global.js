@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'La fase de elicitación de requisitos',
+    componenteFormativo: 'Validación de requisitos',
     descripcionCurso:
-      'La recolección de datos se refiere al uso de una gran diversidad de técnicas y herramientas que pueden ser utilizadas por el analista para desarrollar los sistemas de información, que pueden ser la entrevista, la encuesta, el cuestionario, la observación, las sesiones en grupo, la visita a instalaciones, entre otros. Cada técnica de recolección de información posee diferentes instrumentos o herramientas para ser llevadas a cabo con profesionalismo y confiabilidad.',
+      'En este componente formativo se abordan los temas de técnicas de validación de requisitos (revisiones, prototipos y casos de prueba) y el tema de los requerimientos duraderos y volátiles.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -36,30 +36,37 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Elicitación de requisitos',
+        titulo: 'Validación de requerimientos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Planeación',
+            titulo: 'Revisiones de requerimientos',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Técnicas e instrumentos para elicitar requisitos',
+            titulo: 'Construcción de prototipos',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Herramientas para captura de requisitos',
+            titulo: 'Generación de casos de prueba',
             hash: 't_1_3',
           },
-          {
-            numero: '1.4',
-            titulo: 'Herramientas de modelado',
-            hash: 't_1_4',
-          },
         ],
+      },
+      {
+        nombreRuta: 'tema2',
+        numero: '2',
+        titulo: 'Requerimientos duraderos y volátiles',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '3',
+        titulo: 'Herramientas para la gestión de requisitos',
+        desarrolloContenidos: true,
       },
     ],
     subMenu: [

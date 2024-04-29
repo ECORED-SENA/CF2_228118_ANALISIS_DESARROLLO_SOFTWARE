@@ -1,4 +1,4 @@
-# **La fase de elicitación de requisitos**
+# **Validación de requisitos**
 
 ## **Enlace GitHubPages**
 
