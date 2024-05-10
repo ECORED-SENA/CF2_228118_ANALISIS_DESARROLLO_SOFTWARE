@@ -116,35 +116,35 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1 Planeación',
+      tema: '1.1 Revisiones de requerimientos',
       referencia:
         'todopmp.com. (s.f.). <i>Guía PMBOK 6 - 49 procesos, entradas, herramientas y salidas</i>.',
       tipo: 'Página web',
       link: 'https://todopmp.com/cards/',
     },
     {
-      tema: '1.1 Planeación',
+      tema: '1.1 Revisiones de requerimientos',
       referencia:
         'EDAP - Project Business School. (2016). <i>MOOC PMP 302 Identificar Interesados (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aUkTxgaajBo',
     },
     {
-      tema: '1.1 Planeación',
+      tema: '1.1 Revisiones de requerimientos',
       referencia:
         'Virtual Training Lteam. (2016). <i>Partes Interesadas Stakeholders (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9AtaIAZEu0c',
     },
     {
-      tema: '1.1 Planeación',
+      tema: '1.2 Construcción de prototipos',
       referencia:
         'Calle, M. (2020). <i>Análisis de Interesados Mariz Poder Interés - PMI (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hDZ0uu0H1wc',
     },
     {
-      tema: '1.2 Técnicas e instrumentos para elicitar requisitos',
+      tema: '1.3 Generación de casos de prueba',
       referencia:
         'Jibaro X. (2019). <i>Tipos de Pregundas en una encuesta (video)</i>. YouTube.',
       tipo: 'Video',
@@ -338,11 +338,11 @@ export default {
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y Producción audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {

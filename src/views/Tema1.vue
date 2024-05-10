@@ -96,6 +96,7 @@
     figure.mb-5(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/yxspMjOBP8Y?si=L2wfFhngGum26ltm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Construcción de prototipos
     .row.justify-content-center.mb-5
       .col-lg-10
         .p-4.bg-c3(data-aos="fade-down")
@@ -210,7 +211,7 @@
           p(data-aos="fade-right") Desarrollar pruebas para los requerimientos permite evidenciar problemas antes de escribir cualquier línea de código. Normalmente, si es complejo construir un caso de prueba para un requerimiento esto es un indicio de que el requerimiento, puede ser difícil de implementar, por lo que debería considerarse.
           .row.align-items-center.mb-5
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-              p La validación de requisitos por casos de prueba requiere el desarrollo de cuatros fases: i) planeación de la prueba. Aquí se define la estrategia a utilizar, el alcance de la prueba a realizar y los tiempos requeridos para el desarrollo de la prueba; ii) diseño de los casos de prueba; iii) ejecución de los casos de prueba y iv) elaboración del informe final de la prueba donde se describen los aspectos más importantes y hallazgos de la ejecución de la prueba (Pantaleo, 2018).
+              p La validación de requisitos por casos de prueba requiere el desarrollo de cuatro fases: i) planeación de la prueba. Aquí se define la estrategia a utilizar, el alcance de la prueba a realizar y los tiempos requeridos para el desarrollo de la prueba; ii) diseño de los casos de prueba; iii) ejecución de los casos de prueba y iv) elaboración del informe final de la prueba donde se describen los aspectos más importantes y hallazgos de la ejecución de la prueba (Pantaleo, 2018).
               p De otra parte, el diseño de un caso de prueba requiere: i) la construcción de un instrumento donde se debe detallar para cada requerimiento si existen precondiciones, es decir, si se requieren de actividades o valores previos para poder iniciar la ejecución del requerimiento; ii) identificar los pasos a seguir para la validación de un requisito y iii) los resultados esperados de la realización de cada paso.
               p.mb-0 #[b La siguiente es la estructura que lleva el instrumento de registro de caso de prueba:]
             .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
@@ -236,8 +237,8 @@
                     tr
                       td(colspan="2") Precondiciones
                     tr
-                      td Pasos
-                      td Resultados esperados
+                      td #[b Pasos]
+                      td #[b Resultados esperados]
                     tr
                       td 1
                       td 1
