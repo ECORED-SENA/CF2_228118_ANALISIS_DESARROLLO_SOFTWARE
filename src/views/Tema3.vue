@@ -144,7 +144,7 @@
                   .col-12
                     .p-4
                       p Herramienta de administración de requisitos que permite visibilidad y control.
-      .py-4.py-md-5(titulo="Herramientas comerciales" :icono="require('@/assets/curso/tema3/img5.svg')")
+      .py-4.py-md-5(titulo="Herramientas libres" :icono="require('@/assets/curso/tema3/img5.svg')")
         .row.justify-content-center
           .col-11
             p.mb-5 También existen herramientas de uso libre para realizar las actividades pertinentes a la gestión de requisitos. Algunas son:

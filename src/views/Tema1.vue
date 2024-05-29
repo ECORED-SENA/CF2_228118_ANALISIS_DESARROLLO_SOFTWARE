@@ -134,7 +134,7 @@
                     p.mb-0 Aunque un prototipo podría ser una sencilla representación gráfica del sistema en papel o la representación de interfaces del sistema usando herramientas de ofimática, existen varias herramientas gratuitas y de pago que facilitan la construcción de prototipos, algunas de ellas solo requieren un registro de correo electrónico para acceder a sus funcionalidades directamente desde el navegador, y otras requieren la descarga e instalación en el equipo donde se planean construir los prototipos.
     p.mb-5 #[b Algunas herramientas recomendadas son las siguientes:]
     .row.justify-content-center
-      .col-lg-8.mb-4
+      .col-xl-10.mb-4
         .row.justify-content-center.mb-0.mb-lg-4(data-aos="fade-right")
           .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c6.h-100
@@ -197,7 +197,7 @@
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img9.png', style="width:80px" alt='').m-auto
-              p.text-center.mb-0 #[b Picodo]
+              p.text-center.mb-0 #[b Pidoco]
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.pidoco.com/en" target="_blank") www.pidoco.com/en

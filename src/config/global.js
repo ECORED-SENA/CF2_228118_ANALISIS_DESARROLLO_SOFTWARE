@@ -100,7 +100,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228118_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -116,37 +116,37 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1 Revisiones de requerimientos',
+      tema: 'Revisiones de requerimientos',
       referencia:
         'todopmp.com. (s.f.). <i>Guía PMBOK 6 - 49 procesos, entradas, herramientas y salidas</i>.',
       tipo: 'Página web',
       link: 'https://todopmp.com/cards/',
     },
     {
-      tema: '1.1 Revisiones de requerimientos',
+      tema: 'Revisiones de requerimientos',
       referencia:
         'EDAP - Project Business School. (2016). <i>MOOC PMP 302 Identificar Interesados (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aUkTxgaajBo',
     },
     {
-      tema: '1.1 Revisiones de requerimientos',
+      tema: 'Revisiones de requerimientos',
       referencia:
         'Virtual Training Lteam. (2016). <i>Partes Interesadas Stakeholders (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9AtaIAZEu0c',
     },
     {
-      tema: '1.2 Construcción de prototipos',
+      tema: 'Construcción de prototipos',
       referencia:
-        'Calle, M. (2020). <i>Análisis de Interesados Mariz Poder Interés - PMI (video)</i>. YouTube.',
+        'Calle, M. (2020). <i>Análisis de Interesados Matriz Poder Interés - PMI (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hDZ0uu0H1wc',
     },
     {
-      tema: '1.3 Generación de casos de prueba',
+      tema: 'Generación de casos de prueba',
       referencia:
-        'Jibaro X. (2019). <i>Tipos de Pregundas en una encuesta (video)</i>. YouTube.',
+        'Jibaro X. (2019). <i>Tipos de Preguntas en una encuesta (video)</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=mwnQuUi9014',
     },
@@ -231,7 +231,7 @@ export default {
     },
     {
       referencia:
-        'Durán, A., Bernárdez, B., Ruiz, A. y Toro, M. (1999). A Requirements Elicitatio Approach Based in Templates and Patterns. ',
+        'Durán, A., Bernárdez, B., Ruiz, A. y Toro, M. (1999). A Requirements Elicitation Approach Based in Templates and Patterns. ',
       link:
         'https://www.researchgate.net/publication/2890318_A_Requirements_Elicitation_Approach_Based_in_Templates_and_Patterns',
     },
@@ -257,7 +257,7 @@ export default {
     },
     {
       referencia:
-        'La oficina de proyectos de informática (2012). PMOinformatica.com. ',
+        'Plantillas Scrum: historias de usuario y criterios de aceptación (2012). PMOinformatica.com. ',
       link:
         'http://www.pmoinformatica.com/2012/10/plantillas-scrum-historias-de-usuario.html',
     },
@@ -348,11 +348,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        //{
-        //  nombre: 'Luis Gabriel Urueta Alvarez',
-        //  cargo: 'Validador de Recursos Educativos Digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         //{
         //  nombre: 'Jaime Hernán Tejada Llano',
         //  cargo: 'Validador de Recursos Educativos Digitales',
@@ -360,7 +360,7 @@ export default {
         //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         //{

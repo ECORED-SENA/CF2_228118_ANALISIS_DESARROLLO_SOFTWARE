@@ -14,7 +14,7 @@
           figure.mb-3
             img(src='@/assets/curso/tema2/img1.svg', style="width:350px" alt='').m-auto
           p #[b Requerimientos duraderos:]
-          p.mb-0 Son relativamente estables y normalmente se derivan de las actividades principales de la organización y están directamente relacionados con el dominio del sistema (Easterbrook, 1993). Por ejemplo, en un sistema académico los requerimientos relacionados con la gestión de estudiantes, profesores y grupos hacen parte del dominio y, seguramente, el modelo de negocio asociado a estos requerimientos no van a cambiar mucho en el tiempo.
+          p.mb-0 Son relativamente estables y normalmente se derivan de las actividades principales de la organización y están directamente relacionados con el dominio del sistema (Easterbrook, 1993). Por ejemplo, en un sistema académico los requerimientos relacionados con la gestión de estudiantes, profesores y grupos hacen parte del dominio y, seguramente, el modelo de negocio asociado a estos requerimientos no va a cambiar mucho en el tiempo.
       .col-md-10.col-lg-6(data-aos="fade-left")
         .p-4.p-lg-5.bg-c8
           figure.mb-3
