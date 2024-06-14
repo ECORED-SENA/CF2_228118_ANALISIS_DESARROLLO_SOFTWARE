@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Herramientas para la gestión de requisitos
-    p(data-aos="fade-right") En la actualidad, existe una variedad de herramientas para ser utilizadas específicamente en la gestión de requisitos, la utilización de estas ayuda a mejorar la calidad del desarrollo de un proyecto y permite un mayor control en el mantenimiento, previniendo posibles errores durante la ejecución del proyecto (Sevilla, 2021).
+    p(data-aos="fade-right") En la actualidad, existe una variedad de herramientas para ser utilizadas específicamente en la gestión de requisitos, la utilización de estas ayuda a mejorar la calidad del desarrollo de un proyecto y permite un mayor control en el mantenimiento, previniendo posibles errores durante la ejecución del proyecto.
     .row
       .col-lg-6.order-2.order-lg-1(data-aos="fade-right")
         p.mb-0 Las herramientas de gestión de requisitos variarán según las metodologías de proyecto y los objetivos, la manera en la cual se aborden los requisitos también dependerá según la metodología. Por ejemplo, algunos equipos usan otra palabra para requisitos como #[b “historias de usuarios”], #[b “requisitos de productos”] o, simplemente, #[b “características”].
@@ -47,7 +47,7 @@
                       li.d-flex
                         i.fas.fa-circle(style="color:#3EE2A8")
                         |
-                        p.mb-0 Gestión de requisitos basados en modelos de información como por ejemplo casos de uso o historias de usuario.
+                        p.mb-0 Gestión de requisitos basados en modelos de información, como por ejemplo casos de uso o historias de usuario.
                       li.d-flex
                         i.fas.fa-circle(style="color:#3EE2A8")
                         |
@@ -67,7 +67,6 @@
           p.mb-0 #[b Tabla 2.] Herramientas de gestión de requisitos
         .tabla-a.color-acento-botones(data-aos="fade-left")
           table
-            caption Nota: Tomada de Sevilla (2021).
             thead
               tr
                 th.text-white(style="width:30%") #[i Requirements Management Tool]
@@ -125,7 +124,7 @@
                         img(src='@/assets/curso/tema3/img4.png', style="width:250px" alt='').m-auto
                   .col-12
                     .p-4
-                      p Aplicación de gestión de requisitos para optimizar la comunicación la colaboración y la verificación de requisitos.
+                      p Aplicación de gestión de requisitos para optimizar la comunicación, la colaboración y la verificación de requisitos.
               .col-md-10.col-lg-4.bg-c11
                 .row
                   .col-12
