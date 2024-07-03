@@ -133,7 +133,7 @@
                     p Para la fase de verificación de requisitos se recomienda el uso de prototipos de baja fidelidad (presentación de escenarios con maquetas estáticas) y de tipo exploratorio (prototipos no reutilizables, usados únicamente para la clarificación e identificación de requerimientos).
                     p.mb-0 Aunque un prototipo podría ser una sencilla representación gráfica del sistema en papel o la representación de interfaces del sistema usando herramientas de ofimática, existen varias herramientas gratuitas y de pago que facilitan la construcción de prototipos, algunas de ellas solo requieren un registro de correo electrónico para acceder a sus funcionalidades directamente desde el navegador, y otras requieren la descarga e instalación en el equipo donde se planean construir los prototipos.
     p.mb-5 #[b Algunas herramientas recomendadas son las siguientes:]
-    .row.justify-content-center
+    .row.justify-content-center.text-center
       .col-xl-10.mb-4
         .row.justify-content-center.mb-0.mb-lg-4(data-aos="fade-right")
           .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
