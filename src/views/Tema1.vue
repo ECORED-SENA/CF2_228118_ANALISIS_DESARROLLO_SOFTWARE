@@ -135,8 +135,8 @@
     p.mb-5 #[b Algunas herramientas recomendadas son las siguientes:]
     .row.justify-content-center.text-center
       .col-xl-10.mb-4
-        .row.justify-content-center.mb-0.mb-lg-4(data-aos="fade-right")
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+        .row.justify-content-center.my-3(data-aos="fade-right")
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img2.png', style="width:80px" alt='').m-auto
@@ -144,7 +144,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://helpx.adobe.com/es/xd/get-started.html" target="_blank") www.adobe.com
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img3.png', style="width:80px" alt='').m-auto
@@ -152,7 +152,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.marvelapp.com" target="_blank") www.marvelapp.com
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img4.png', style="width:80px" alt='').m-auto
@@ -160,7 +160,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.moqups.com" target="_blank") www.moqups.com
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img5.png', style="width:80px" alt='').m-auto
@@ -168,8 +168,8 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.lucidchart.com/pages/" target="_blank") www.lucidchart.com/pages
-        .row.justify-content-center(data-aos="fade-left")
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img6.png', style="width:80px" alt='').m-auto
@@ -177,7 +177,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.proto.io" target="_blank") www.proto.io
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img7.png', style="width:80px" alt='').m-auto
@@ -185,7 +185,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.balsamiq.com" target="_blank") www.balsamiq.com
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img8.png', style="width:80px" alt='').m-auto
@@ -193,7 +193,7 @@
               .row.justify-content-center
                 .col-auto
                   a(href="https://www.wirify.com" target="_blank") www.wirify.com
-          .col-8.col-md-6.col-lg-3.mb-4.mb-lg-0
+          .col-8.col-md-6.col-lg-4.my-3
             .p-4.bg-c6.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img9.png', style="width:80px" alt='').m-auto
